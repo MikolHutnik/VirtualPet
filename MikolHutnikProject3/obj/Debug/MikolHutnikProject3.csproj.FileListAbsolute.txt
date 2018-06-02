@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\MikolHutnikProject3\MikolHutnikProject3\bin\Debug\MikolHutnikProject3.exe.config
+C:\Users\WeCanCodeIT\source\repos\MikolHutnikProject3\MikolHutnikProject3\bin\Debug\MikolHutnikProject3.exe
+C:\Users\WeCanCodeIT\source\repos\MikolHutnikProject3\MikolHutnikProject3\bin\Debug\MikolHutnikProject3.pdb
+C:\Users\WeCanCodeIT\source\repos\MikolHutnikProject3\MikolHutnikProject3\obj\Debug\MikolHutnikProject3.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\MikolHutnikProject3\MikolHutnikProject3\obj\Debug\MikolHutnikProject3.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\MikolHutnikProject3\MikolHutnikProject3\obj\Debug\MikolHutnikProject3.exe
+C:\Users\WeCanCodeIT\source\repos\MikolHutnikProject3\MikolHutnikProject3\obj\Debug\MikolHutnikProject3.pdb
